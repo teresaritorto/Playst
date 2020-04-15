@@ -6,6 +6,8 @@ You’ll need to have ```Node >= 8.10``` on your local development machine
 
 ## Available Scripts
 
+* Ensure you run `npm i` in the project directory before running any of the available scripts.
+
 In the project directory, you can run:
 
 ### `npm start`
